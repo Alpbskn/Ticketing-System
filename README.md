@@ -51,9 +51,6 @@ php -S localhost:8000
 ```
 Then, open `http://localhost:8000` in your browser to access the project.
 
-## 📷 Screenshot
-![BiBilet Home Page](./screenshot.png)
-
 ## 💡 Contributing
 If you have any suggestions or improvements, feel free to open a **pull request** or create an **issue**. 🚀
 
